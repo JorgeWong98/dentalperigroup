@@ -1,0 +1,64 @@
+.toogle {
+  display: flex !important;
+  justify-content: flex-end !important;
+}
+
+.toogle .button {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+}
+
+.toogle .button span {
+  margin-top: -5px;
+  font-size: 15px;
+}
+
+.section-our_story .buttons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.meet-doctors{
+	font-size: 50px !important;
+	line-height: 55px;
+	padding-top: 0;
+	margin-top: 65px;
+	margin-bottom: 40px;
+}
+
+@media screen and (max-width: 720px) {
+  header.staff{
+		padding: 15px 0 45px 0 !important;
+    height: 30vh !important;
+		margin-bottom: 15px;
+	}
+
+	section.staff-main{
+		height: 70vh !important;
+	}
+
+	.staff-logo-container{
+		text-align: center;
+	}
+
+	img.staff-logo-image{
+		width: 100%;
+		margin-top: 12px;
+	}
+}
+
+@media screen and (max-width: 450px) {
+	img.staff-logo-image{
+		width: 100%;
+		margin-top: 20px;
+	}
+}
+
+@media screen and (max-width: 330px) {
+	img.staff-logo-image{
+		width: 100%;
+		margin-top: 20px;
+	}
+}

@@ -1,0 +1,13 @@
+[08-Feb-2018 10:42:43 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/dentalpe/public_html/jquery-comments/api/objects/comment.php on line 38
+[08-Feb-2018 10:42:43 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/dentalpe/public_html/jquery-comments/api/objects/comment.php on line 38
+[08-Feb-2018 10:42:43 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/dentalpe/public_html/jquery-comments/api/objects/comment.php on line 38
+[08-Feb-2018 10:42:43 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/dentalpe/public_html/jquery-comments/api/objects/comment.php on line 38
+[08-Feb-2018 10:42:43 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/dentalpe/public_html/jquery-comments/api/objects/comment.php on line 38
+[08-Feb-2018 10:42:54 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/dentalpe/public_html/jquery-comments/api/objects/comment.php on line 38
+[08-Feb-2018 10:42:59 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/dentalpe/public_html/jquery-comments/api/objects/comment.php on line 38
+[08-Feb-2018 10:43:05 America/Mexico_City] PHP Fatal error:  Call to a member function prepare() on null in /home/dentalpe/public_html/jquery-comments/api/objects/comment.php on line 38
+[08-Feb-2018 11:02:54 America/Mexico_City] PHP Notice:  Undefined index: lang in /home/dentalpe/public_html/jquery-comments/api/functions/read.php on line 18
+[08-Feb-2018 11:02:54 America/Mexico_City] PHP Notice:  Undefined index: admin in /home/dentalpe/public_html/jquery-comments/api/functions/read.php on line 19
+[08-Apr-2019 16:19:46 America/Mexico_City] PHP Notice:  Undefined index: admin in /home/dentalpe/public_html/jquery-comments/api/functions/read.php on line 19
+[17-Jul-2019 17:56:47 America/Mexico_City] PHP Notice:  Undefined index: admin in /home/dentalpe/public_html/jquery-comments/api/functions/read.php on line 19
+[30-Sep-2019 03:35:45 America/Mexico_City] PHP Notice:  Undefined index: admin in /home/dentalpe/public_html/jquery-comments/api/functions/read.php on line 19

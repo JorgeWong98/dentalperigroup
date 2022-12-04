@@ -1,0 +1,23 @@
+    var isOpen = false;
+    $(document).ready(function() {
+        $('#myTabs a').click(function(e) {
+            e.preventDefault()
+            $(this).tab('show')
+        })
+
+        $('#btn_movil').click(function(event) {
+            if (isOpen) {
+                $('.movil').animate({ top: '-527' });
+                isOpen = false;
+            } else {
+                $('.movil').animate({ top: '0px' });
+                isOpen = true;
+            }
+        });
+
+
+        AOS.init({
+            duration: 1200,
+            disable: window.innerWidth < 1024
+        })
+    });
